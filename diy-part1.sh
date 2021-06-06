@@ -15,3 +15,21 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+# 文件管理器
+git clone https://github.com/xiaozhuai/luci-app-filebrowser.git ./package/diy/filebrowser
+
+# App过滤
+git clone https://github.com/destan19/OpenAppFilter.git ./package/diy/OpenAppFilter
+
+# 全能推送
+git clone https://github.com/zzsj0928/luci-app-pushbot.git ./package/diy/pushbot
+
+# SSR PLUS
+git clone https://github.com/fw876/helloworld.git ./package/diy/helloworld
+
+# AdGuardHome广告过虑
+git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHome
+
+# Luci AdGuardHome广告过虑
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
