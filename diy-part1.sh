@@ -32,4 +32,4 @@ git clone https://github.com/fw876/helloworld.git ./package/diy/helloworld
 git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHome
 
 # Luci AdGuardHome广告过虑
-git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
+# git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
