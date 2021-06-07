@@ -33,3 +33,6 @@ git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHo
 
 # Luci AdGuardHome广告过虑
 # git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
+
+# 简单mesh组网(210607添加）
+git clone https://github.com/AE86JAY/luci-app-easymesh.git ./package/diy/easymesh
