@@ -38,7 +38,10 @@ git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHo
 git clone https://github.com/AE86JAY/luci-app-easymesh.git ./package/diy/easymesh
 
 # 流量统计
-git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git ./package/diy/bandwidthd
+# git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git ./package/diy/bandwidthd
 
 #  自动关机
 git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git ./package/diy/poweroffdevice
+
+# 主题
+git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./package/diy/infinityfreedom
