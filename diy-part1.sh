@@ -26,13 +26,13 @@ git clone https://github.com/destan19/OpenAppFilter.git ./package/diy/OpenAppFil
 git clone https://github.com/zzsj0928/luci-app-pushbot.git ./package/diy/pushbot
 
 # SSR PLUS
-git clone https://github.com/fw876/helloworld.git ./package/diy/helloworld
+# git clone https://github.com/fw876/helloworld.git ./package/diy/helloworld
 
 # AdGuardHome广告过虑
 git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHome
 
 # Luci AdGuardHome广告过虑
-# git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
 
 # 简单mesh组网(210607添加）
 git clone https://github.com/AE86JAY/luci-app-easymesh.git ./package/diy/easymesh
@@ -41,7 +41,10 @@ git clone https://github.com/AE86JAY/luci-app-easymesh.git ./package/diy/easymes
 # git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git ./package/diy/bandwidthd
 
 #  自动关机
-git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git ./package/diy/poweroffdevice
+# git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git ./package/diy/poweroffdevice
 
 # 主题
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./package/diy/infinityfreedom
+
+# Passwall
+git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/diy/passwall
