@@ -36,7 +36,7 @@ git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHo
 git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
 
 # 简单mesh组网(210607添加）
-git clone https://github.com/AE86JAY/luci-app-easymesh.git ./package/diy/easymesh
+git clone https://github.com/ntlf9t/luci-app-easymesh.git ./package/diy/easymesh
 
 # 流量统计
 # git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git ./package/diy/bandwidthd
@@ -44,8 +44,15 @@ git clone https://github.com/AE86JAY/luci-app-easymesh.git ./package/diy/easymes
 #  自动关机
 # git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git ./package/diy/poweroffdevice
 
+# 京东
+git clone https://github.com/jerrykuku/luci-app-jd-dailybonus.git ./package/diy/luci-app-jd-dailybonus
+
 # 主题
 git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./package/diy/infinityfreedom
 
 # Passwall
 git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/diy/passwall
+
+# 你好，世界
+git clone https://github.com/jerrykuku/luci-app-vssr.git ./package/diy/HelloWorld
+
