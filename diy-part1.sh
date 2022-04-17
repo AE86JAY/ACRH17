@@ -56,3 +56,21 @@ git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/diy/passwa
 # 你好，世界
 git clone https://github.com/jerrykuku/luci-app-vssr.git ./package/diy/HelloWorld
 
+# IPTV
+git clone https://github.com/riverscn/openwrt-iptvhelper.git ./package/diy/iptvhelper
+
+
+# apfree_wifidog
+git clone https://github.com/AE86JAY/apfree_wifidog.git ./package/diy/apfree_wifidog
+
+# luci-app-apfree_wifidog
+git clone https://github.com/jmnmu/luci-app-apfree_wifidog.git ./package/diy/luci-app-apfree_wifidog
+
+# apfree_wifidog-AUTH
+git clone https://github.com/Echowxsy/wx-apfree_wifidog-auth.git ./package/diy/wx-apfree_wifidog-auth
+
+# apfree_wifidog-AUTH-LUCI
+git clone https://github.com/songzhu1028/wifidog-auth-luci.git ./package/diy/wifidog-auth-luci
+
+# 抓包
+git clone https://github.com/KFERMercer/luci-app-tcpdump.git ./package/diy/luci-app-tcpdump
