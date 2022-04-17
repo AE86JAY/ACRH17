@@ -14,8 +14,8 @@
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
 # Add a feed source
-#sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-sed -i '$a src-git liuran001_packages https://github.com/liuran001/openwrt-packages
+sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+#sed -i '$a src-git liuran001_packages https://github.com/liuran001/openwrt-packages
 
 # 文件管理器
 git clone https://github.com/xiaozhuai/luci-app-filebrowser.git ./package/diy/filebrowser
@@ -39,7 +39,7 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/di
 git clone https://github.com/ntlf9t/luci-app-easymesh.git ./package/diy/easymesh
 
 # 流量统计
-# git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git ./package/diy/bandwidthd
+git clone https://github.com/AlexZhuo/luci-app-bandwidthd.git ./package/diy/bandwidthd
 
 #  自动关机
 # git clone https://github.com/sirpdboy/luci-app-poweroffdevice.git ./package/diy/poweroffdevice
@@ -58,7 +58,6 @@ git clone https://github.com/jerrykuku/luci-app-vssr.git ./package/diy/HelloWorl
 
 # IPTV
 git clone https://github.com/riverscn/openwrt-iptvhelper.git ./package/diy/iptvhelper
-
 
 # apfree_wifidog
 git clone https://github.com/AE86JAY/apfree_wifidog.git ./package/diy/apfree_wifidog
