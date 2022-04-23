@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build OpenWrt ACRH17_20220417
+name: Build OpenWrt ACRH17_20220423
 
 on:
   repository_dispatch:
